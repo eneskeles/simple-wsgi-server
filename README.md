@@ -1,2 +1,2 @@
-# simple-wsgi-server
-simple WSGI compatible application server and application framework 
+# WSGI Compatible Server Gateway
+[WIP]
